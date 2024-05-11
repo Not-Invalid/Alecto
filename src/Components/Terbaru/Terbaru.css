@@ -1,0 +1,33 @@
+.terbaru {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 100px;
+}
+
+.terbaru h1 {
+    color: #272727;
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.terbaru hr {
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #272727;
+}
+
+.item-terbaru {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+.item-terbaru img {
+    width: 160px;
+}
+
