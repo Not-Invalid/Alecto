@@ -5,7 +5,7 @@ import {Home} from './Pages/Home';
 import { Kategori } from './Pages/Kategori';
 import {Product} from './Pages/Product';
 import {Cart} from './Pages/Cart';
-import { LoginRegister } from './Pages/LoginRegister';
+import LoginRegister from './Pages/LoginRegister';
 import Footer from './Components/Footer/Footer';
 import banner from './Components/Assets/banner.jpg'
 

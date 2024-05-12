@@ -15,7 +15,7 @@
 }
 
 .footer-logo img {
-    width: 50px;
+    width: 60px;
 }
 
 .footer-logo p {
@@ -39,9 +39,9 @@
 }
 
 .footer-icon-container {
-    padding: 10px;
-    padding-bottom: 6px;
-    border-radius: 8px;
+    padding: 10px 35px;
+    border-radius: 10px;
+    font-size: 24px;
     background: white;
     border: 1px solid #ebebeb;
 }
